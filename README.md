@@ -36,7 +36,8 @@ How?
 
 Orika uses byte code generation to create fast mappers with minimal overhead. 
 
-Want to give Orika a try? Check out our new [User Guide](http://orika-mapper.github.com/orika-docs/) 
+Want to give Orika a try? Check out our new [User Guide](https://orika-mapper.github.io/orika-docs/) 
+                                                         
 
 Acknowledgements
 =================
